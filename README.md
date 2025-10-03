@@ -24,7 +24,7 @@ HTML / CSS
 
 Clone this repository
 
-git clone https://github.com/your-username/php-crud-app.git
+git clone https://github.com/Manikantareddy/php-crud-app.git
 cd php-crud-app
 
 
